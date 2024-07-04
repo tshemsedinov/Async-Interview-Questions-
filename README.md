@@ -1,5 +1,11 @@
 # Вопросы по асинхронному программированию для собеседований
 
+> Вопросы и рекомендации для собеседований по JavaScript и TypeScript.
+> Переводы:
+> [EN](https://github.com/tshemsedinov/Async-Interview-Questions/tree/en),
+> [UA](https://github.com/tshemsedinov/Async-Interview-Questions/tree/ua),
+> [RU](https://github.com/tshemsedinov/Async-Interview-Questions/tree/ru).
+
 1. Как мы можем написать код избегая блокирования цикла событий?
 2. Как мы можем вывести рантайм из состояния блокировки цикла событий из того же процесса?
 3. Что такое «callback hell» и как мы можем его избежать?
