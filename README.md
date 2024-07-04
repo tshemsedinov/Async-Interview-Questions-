@@ -1,5 +1,11 @@
 # Asynchronous programming Interview Questions
 
+> Interview questions and recommendations for JavaScript and TypeScript developers.
+> Translations:
+> [EN](https://github.com/tshemsedinov/Async-Interview-Questions/tree/en),
+> [UA](https://github.com/tshemsedinov/Async-Interview-Questions/tree/ua),
+> [RU](https://github.com/tshemsedinov/Async-Interview-Questions/tree/ru).
+
 1. How can we write code to avoid blocking the event loop?
 2. How can we handle a blocked event loop to exit the blocking state from the same process?
 3. What is callback hell, and how can we avoid it?
