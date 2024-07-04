@@ -109,7 +109,7 @@
 
 ## Посилання
 
-- [ Каталог питань на інтерв'ю](https://github.com/tshemsedinov/Interview-Questions)
-- [ Async 2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Async-2024.md)
-- [ Node.js 2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2024.md)
-- [ Self Assessment](https://github.com/HowProgrammingWorks/SelfAssessment)
+- [❓ Каталог питань на інтерв'ю](https://github.com/tshemsedinov/Interview-Questions)
+- [🔁 Async 2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Async-2024.md)
+- [🚀 Node.js 2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2024.md)
+- [🤖 Self Assessment](https://github.com/HowProgrammingWorks/SelfAssessment)
