@@ -1,6 +1,6 @@
 # Asynchronous programming Interview Questions
 
-> Interview questions and recommendations for JavaScript and TypeScript developers.
+> Interview questions and recommendations for JavaScript and TypeScript.
 > Translations:
 > [EN](https://github.com/tshemsedinov/Async-Interview-Questions/tree/en),
 > [UA](https://github.com/tshemsedinov/Async-Interview-Questions/tree/ua),
